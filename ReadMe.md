@@ -42,6 +42,6 @@ This corrects for distortion introduced in images by the camera lens and compute
 
  A potential (and exciting!) solution would be to tackle this problem using deep learning approaches. This might remove the need to devise several individual solutions. However it would require that one has enough data to represent all possible road conditions.
 
- # References
+# References
 
 Most of the code in the Udacity lecture notes was used as a starting material for this project.
