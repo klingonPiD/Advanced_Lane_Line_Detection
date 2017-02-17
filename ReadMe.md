@@ -28,9 +28,9 @@ This corrects for distortion introduced in images by the camera lens and compute
 
 # Results
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fF09efg_VTk/0.jpg)](https://youtu.be/fF09efg_VTk)
+[![Project Video](https://img.youtube.com/vi/fF09efg_VTk/0.jpg)](https://youtu.be/fF09efg_VTk)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ogEaJFM0Rb/0.jpg)](https://youtu.be/ogEaJFM0Rb)
+[![Challenge Video](https://img.youtube.com/vi/ogEaJFM0RbM/0.jpg)](https://youtu.be/ogEaJFM0RbM)
 
 # Discussion
 
